@@ -10,7 +10,7 @@ def cal_area(height, base):
     # The formula used to calculate the area of a triangle
     area = (base * height) / 2
     # Display the area of the triangle
-    print("The area of the triangle is {} cm².".format(area))
+    print("The area of the triangle is {} cm^2.".format(area))
 
 # This function is the main function
 def main():
