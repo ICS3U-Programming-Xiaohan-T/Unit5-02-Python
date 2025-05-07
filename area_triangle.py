@@ -12,7 +12,6 @@ def cal_area(height, base):
     # Display the area of the triangle
     print("The area of the triangle is {} cm².".format(area))
 
-
 # This function is the main function
 def main():
     # Casting the base and height from into float
